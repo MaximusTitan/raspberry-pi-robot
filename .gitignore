@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+# Large models / voices - download separately (see README)
+model/
+*.zip
+*.onnx
+*.onnx.json
+*.wav
